@@ -2,5 +2,8 @@
 my first repo
 
 
-##subheader
+## subheader
 learn from the youtube
+
+## localdevelopment
+1. open index.html in your browser.
