@@ -7,3 +7,6 @@ learn from the youtube
 
 ## localdevelopment
 1. open index.html in your browser.
+
+## learn diff
+learn about gitdiff
